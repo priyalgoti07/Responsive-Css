@@ -1,0 +1,33 @@
+.box {
+    width: 500px;
+    height: 500px;
+    background-color: crimson;
+}
+
+.inner {
+    height: 50vh;
+    width: 50vw;
+    background-color: royalblue;
+}
+
+/* h1{
+    font-size: 7vmin;
+} */
+
+.parent {
+    background-color: #dadada;
+    width: 40%;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
